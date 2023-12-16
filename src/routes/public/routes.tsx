@@ -9,7 +9,7 @@ const SignUp = lazy(() => import('../../pages/Signup'));
 
 export const publicRoutes: RouteConfig[] = [
   {
-    path: '/',
+    path: '/signUp',
     element: <SignUp />,
   },
 ];

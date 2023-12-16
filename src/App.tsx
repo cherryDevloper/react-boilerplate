@@ -26,6 +26,7 @@ function App() {
               }
             />
           ))}
+          <Route path="/" element={<>HI</>} />
         </Routes>
       </Suspense>
     </Router>
