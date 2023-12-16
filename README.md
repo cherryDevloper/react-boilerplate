@@ -25,5 +25,5 @@ A feature-rich React boilerplate project with TypeScript, ESLint, Prettier, Tail
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-react-boilerplate.git
+   git clone https://github.com/cherryDevloper/react-boilerplate.git
    cd your-react-boilerplate
