@@ -1,6 +1,6 @@
 # React TypeScript Boilerplate
 
-A feature-rich React boilerplate project with TypeScript, ESLint, Prettier, Tailwind CSS, Vite.js, PWA support, cookies, and Redux.
+A feature-rich React boilerplate project with TypeScript, ESLint, Prettier, Tailwind CSS, Vite.js, PWA support, cookies, and React Query.
 
 ## Features
 

@@ -14,9 +14,9 @@ function Layout({
   return (
     <div className="relative min-h-[100vh] w-[100vw] ">
       <Header isTopLevelRoute={isTopLevelRoute} title={headerTitle} />
-      <div className="p-4">{children}</div>
+      <div className="">{children}</div>
       {isTopLevelRoute && (
-        <div className="!w-full fixed bottom-0">
+        <div className="">
           <Navbar />
         </div>
       )}
